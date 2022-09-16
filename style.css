@@ -94,6 +94,13 @@ section ul li:hover{
   width: 70px;
   border: 1px solid #443e54;
 }
+footer a{
+  color: white;
+  
+}
+footer{
+  text-align: center;
+}
 
 
 
